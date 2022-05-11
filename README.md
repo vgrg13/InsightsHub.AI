@@ -7,17 +7,17 @@
 6. [Our Future Roadmap](#Our-Future-Roadmap)
 
 ***
-# 1. What is InsightsHub.AI?
+# What is InsightsHub.AI?
 
 InsightsHub.AI is a platform for restaurants to improve business performance through data driven decisions. It leverages business intelligence capability to generate deep insights on order data collected through point-of-sale terminals like ToastTab, Square, etc. We continue to add features like customer sentiment analyzer and sales forecasting leveraging various AI techniques including Natural Language Processing.
 
 This code uses NLP algos to assess the sentiment of customer reviews and provide insights to the restaurants to be able to improve their customer service. 
 ***
-# 2. Testimonial from one of our clients
+# Testimonial from one of our clients
 
 ![image](https://user-images.githubusercontent.com/88556975/165400098-1768d4c9-d572-4916-a848-a087525baced.png)
 ***
-# 3. How does the product work?
+# How does the product work?
 **End-to-end steps** below starting with data upload to report generation:
 >1. Client uploads order history and order item level breakdown monthly files as is securely through InsightsHub.AI using their account (2 years history stored by POS terminal, and needed for seasonal trends)
 
@@ -47,7 +47,7 @@ This code uses NLP algos to assess the sentiment of customer reviews and provide
 
 > **Sentiment Topics output** from ML Codes : https://github.com/vgrg13/InsightsHub.AI/blob/main/sent_topics_df_final.csv
 ***
-# 4. What Insights are provided by our platform?
+# What Insights are provided by our platform?
 **Business Intelligence**
 * Sales Volume Trends and seasonal behavior
 * Sales trends across Dining options (Lunch/Dinner, etc.) and Order sources (website, GrubHub, etc.) among other dimensions
@@ -69,7 +69,7 @@ All insights, their interpretation and recommendations are provided through Tabl
 ![image](https://user-images.githubusercontent.com/88556975/167743768-4beff8a2-169d-4f42-9e94-812de8dc7866.png)
 
 ***
-# 5. How did I build this solution?
+# How did I build this solution?
 
 Most restaurants do not have understanding of basic data trends in their business, as simple as distribution of dine-in traffic in different hours of the day. Descriptive analysis using BI tool provides significant insights to businesses. In addition, for certain problems, one would need help from Artificial Intelligence  tools to unearth patterns. As an example, identifying the topics your customers are most dis-satisfied with require use of sophisticated Natural Language Processing AI/ML techniques.
 
@@ -102,7 +102,7 @@ One of the NLP articles: https://towardsdatascience.com/sentiment-classification
 
 
 ***
-# 6. Our Future Roadmap
+# Our Future Roadmap
 
 We want to include a number of other data sources to continue to unearth insights into topics important for restaurants
 * **Optimize your menu** for profitability and reduction in food wastage: Need inventory and supplier purchase history data
