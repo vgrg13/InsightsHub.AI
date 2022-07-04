@@ -9,9 +9,10 @@
 ***
 # What is InsightsHub.AI?
 
-InsightsHub.AI is a platform for restaurants to improve business performance through data driven decisions. It leverages business intelligence (BI) capability to generate deep insights on order data collected through point-of-sale terminals like ToastTab, Square, etc. We continue to add features like customer sentiment analyzer and sales forecasting leveraging various AI techniques including Natural Language Processing (NLP).
+InsightsHub.AI is a platform for restaurants to improve business performance through data driven decisions. It leverages business intelligence (BI) capability to generate deep insights on order data collected through point-of-sale terminals like ToastTab, Square, etc. We added customer sentiment analyzer using AI Natural Language (NLP) techniques and continue to add others, e.g., sales forecasting considering local and macro-economic factors.
 
-This code uses NLP algos to assess the sentiment of customer reviews and provide insights to the restaurants to be able to improve their customer service. 
+InsightsHub.AI through its use of technology and leveraging cloud secure storage, automating the entire process of insight generation and making recommendations available at a fraction of cost.
+
 ***
 # Testimonial from one of our clients
 
@@ -81,13 +82,6 @@ Online resource examples:
 - NLP Playlist: https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
 - One of the NLP articles: https://towardsdatascience.com/sentiment-classification-in-python-da31833da01b
 
-**Machine Learning + NLP Models**
->Codes are written in python
-* Customer Review Sentiment Analysis to find out Rate of Negative Sentiments: https://github.com/vgrg13/InsightsHub.AI/blob/main/Restaurant_Reviews_Sentiment_Analysis.ipynb
-
-* Topics of Negative Reviews: https://github.com/vgrg13/InsightsHub.AI/blob/main/Restaurant%20Reviews%20Topic%20Modeling.ipynb
->Over 10 different libraries are used including vaderSentiment, SentimentIntensityAnalyzer, textblob, gensim, pyLDAvis, pandas, numpy, nltk, re, sklearn, and matplotlib
-
 **Key use cases: insights provided through order history data analysis**
 - Staffing Needs by day/hour/week/month
 - Marketing promotions optimization and sales growth 
@@ -95,7 +89,12 @@ Online resource examples:
 - Customer Reviews sentiment trends and root causes of negative sentiments
 - Order channel performance and support to increase website orders
 
+**NLP Models built in Python for Customer Sentiment Analysis use case**
+>Python Codes
+* Customer Review Sentiment Analysis to find out Rate of Negative Sentiments: https://github.com/vgrg13/InsightsHub.AI/blob/main/Restaurant_Reviews_Sentiment_Analysis.ipynb
 
+* Topics of Negative Reviews: https://github.com/vgrg13/InsightsHub.AI/blob/main/Restaurant%20Reviews%20Topic%20Modeling.ipynb
+>Over 10 different libraries are used including vaderSentiment, SentimentIntensityAnalyzer, textblob, gensim, pyLDAvis, pandas, numpy, nltk, re, sklearn, and matplotlib
 
 **Tableau Dashboards supporting above use cases**
 
@@ -109,8 +108,7 @@ Online resource examples:
 * **7) Marketing Promotions and Staffing Optimization**: Sales trends on different days and recommendations for promotions to increase traffic
 * **8) Top Customer Complaints**: Negative and positive reviews distribution, topics of negative reviews and ability to read reviews
 
-**Check out our demo**: https://insightshub.ai/demo.php
-
+**Check out our Tableau dashboard demo**: https://insightshub.ai/demo.php
 
 ***
 # Our Future Roadmap
