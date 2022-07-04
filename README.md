@@ -71,24 +71,33 @@ All insights, their interpretations, and recommendations are provided through Ta
 ***
 # How did I build this solution?
 
-Most restaurants do not have an understanding of basic data trends in their business, such as distributions of dine-in traffic in different hours of the day. Descriptive analysis using BI tools provides significant insights to businesses revealing previously unknown patterns. In addition, for certain problems, Artificial Intelligence is an extremely useful tool to unearth trends. As an example, identifying the topics your customers are most dis-satisfied with require use of sophisticated Natural Language Processing AI/ML techniques.
+Most restaurants lack understanding of basic trends in their business, such as monthly sales performance, take-out vs. delivery vs dine-in traffic by day/hour, or when to run promotions. Descriptive analysis using BI tools provides significant insights to businesses revealing previously unknown patterns. In addition, for certain problems, Artificial Intelligence is an extremely useful tool to unearth trends. As an example, identifying the topics your customers are most dis-satisfied with require use of sophisticated Natural Language Processing AI/ML techniques.
 
 I used Tableau to build a host of pre-configured views applicable to restaurants, and custom views are created as needed. I chose Tableau over other tools based on its ability to generate quality dashboards and its flexibility to create new fields using custom SQL. This Udemy course (https://www.udemy.com/course/tableau10/) was one of my sources to learn Tableau in detail along with youtube videos and the tableau community (https://community.tableau.com/s/)
 
 For my first AI use case, which required analyzing customer online reviews, I worked upon building models using Natural Language processing (a branch of machine learning for text analysis). I supplemented my data science skills through a number of online resources. As an example, I found the Youtube Playlist from Krish Naik (Senior Data Scientist with 10+ years of experience and cofounder of iNeuron.ai) very useful to understand the concept of different techniques. 
 
-NLP Playlist: https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
+Online resource examples:
+- NLP Playlist: https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
+- One of the NLP articles: https://towardsdatascience.com/sentiment-classification-in-python-da31833da01b
 
-One of the NLP articles: https://towardsdatascience.com/sentiment-classification-in-python-da31833da01b
-
-**Machine Learning Models**
+**Machine Learning + NLP Models**
 >Codes are written in python
 * Customer Review Sentiment Analysis to find out Rate of Negative Sentiments: https://github.com/vgrg13/InsightsHub.AI/blob/main/Restaurant_Reviews_Sentiment_Analysis.ipynb
 
 * Topics of Negative Reviews: https://github.com/vgrg13/InsightsHub.AI/blob/main/Restaurant%20Reviews%20Topic%20Modeling.ipynb
 >Over 10 different libraries are used including vaderSentiment, SentimentIntensityAnalyzer, textblob, gensim, pyLDAvis, pandas, numpy, nltk, re, sklearn, and matplotlib
 
-**Tableau Dashboards Details**
+**Key use cases: insights provided through order history data analysis**
+- Staffing Needs by day/hour/week/month
+- Marketing promotions optimization and sales growth 
+- Menu optimization (by seasons)
+- Customer Reviews sentiment trends and root causes of negative sentiments
+- Order channel performance and support to increase website orders
+
+
+
+**Tableau Dashboards supporting above use cases**
 
 8 distinct dashboards are built with 30+ different charts followed by Executive Summary Dashboard. Details below
 * **1) Sales Trends**: Monthly/Seasonal sales trends, sales distribution by order channel, meal type and other dimensions
@@ -109,6 +118,7 @@ One of the NLP articles: https://towardsdatascience.com/sentiment-classification
 We want to include a number of other data sources to continue to unearth insights into topics important for restaurants
 * **Optimize your menu** for profitability and reduction in food wastage: Need inventory and supplier purchase history data
 * **Increase website orders** to avoid fees from 3rd party apps and increase price attractivness for customers: Need google analytics data
+* **Customer segmentation** to identify loyal customers and increase engagement: customer data (phone no, address, card #, etc.) to link orders and customers
 * **Root causes of delivery delays and insufficient staffing** scenarios: Collect staffing data and delivery timestamps 
 * **Impact of price increase** on customer behavior: Collect pricing change data
 * **Impact of external factors** on business: Collect Macro-economics trends (e.g., high unemployment rate or covid infection rate) and local demographics data
