@@ -90,14 +90,15 @@ One of the NLP articles: https://towardsdatascience.com/sentiment-classification
 
 **Tableau Dashboards Details**
 
-7 distinct dashboards are built with 30+ different charts followed by Executive Summary Dashboard. Details below
-* **1) Sales Trends**: High level sales trends (time series view and distribution by key dimensions)
-* **2) Year-over-year Sales Trends**: Year over year performance assessment to avoid the seasonality bias
-* **3) Order Source Trends**: Deep-dive by Dine in vs. delivery vs. take out
-* **4) Meal Type Trends**: Deep-dive by dinner vs. lunch vs. breakfast
-* **5) Menu Items Trends**: Deep-dive at 3 levels of menu items: menu groups (appetizer, entrée, etc.), menu subgroup (veg vs non-veg appetizers, salads vs soups, etc.) and lastly at the menu item level
-* **6) Order Trends Summary**: Order scorecard including interesting dimensions like avg order size, % gratuity, % sale of beverages, etc.
-* **7) Top Customer Complaints**: Negative and positive reviews distribution, topics of negative reviews and ability to read reviews
+8 distinct dashboards are built with 30+ different charts followed by Executive Summary Dashboard. Details below
+* **1) Sales Trends**: Monthly/Seasonal sales trends, sales distribution by order channel, meal type and other dimensions
+* **2) Year-over-year Sales Trends**: Performance compared to last year across months and seasons
+* **3) Order Source Trends**: Dine in vs. delivery vs. take out comparison and trends by order channel (DoorDash, Grubhub, etc.)
+* **4) Meal Type Trends**: Dinner vs. lunch vs. breakfast comparison across months and year-over-year
+* **5) Menu Items Trends**: Menu items sales performance at 3 levels: menu groups (appetizer, entrée, etc.), menu subgroup (veg vs non-veg appetizers, salads vs soups, etc.) and at the menu item level (french fries, etc.)
+* **6) Order Trends Summary**: Order scorecard including interesting dimensions like avg. order size, % beverage sales, % gratuity/tip paid, etc.
+* **7) Marketing Promotions and Staffing Optimization**: Sales trends on different days and recommendations for promotions to increase traffic
+* **8) Top Customer Complaints**: Negative and positive reviews distribution, topics of negative reviews and ability to read reviews
 
 **Check out our demo**: https://insightshub.ai/demo.php
 
@@ -107,6 +108,7 @@ One of the NLP articles: https://towardsdatascience.com/sentiment-classification
 
 We want to include a number of other data sources to continue to unearth insights into topics important for restaurants
 * **Optimize your menu** for profitability and reduction in food wastage: Need inventory and supplier purchase history data
+* **Increase website orders** to avoid fees from 3rd party apps and increase price attractivness for customers: Need google analytics data
 * **Root causes of delivery delays and insufficient staffing** scenarios: Collect staffing data and delivery timestamps 
 * **Impact of price increase** on customer behavior: Collect pricing change data
 * **Impact of external factors** on business: Collect Macro-economics trends (e.g., high unemployment rate or covid infection rate) and local demographics data
