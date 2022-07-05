@@ -83,10 +83,10 @@ Online resource examples:
 - One of the NLP articles: https://towardsdatascience.com/sentiment-classification-in-python-da31833da01b
 
 **Key use cases: insights provided through order history data analysis**
-- Staffing Needs by day/hour/week/month
+- Staffing need by day/hour/week/month
 - Marketing promotions optimization and sales growth 
 - Menu optimization (by seasons)
-- Customer Reviews sentiment trends and root causes of negative sentiments
+- Customer reviews sentiment trends and root causes of negative sentiments
 - Order channel performance and support to increase website orders
 
 **NLP Models built in Python for Customer Sentiment Analysis use case**
