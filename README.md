@@ -9,9 +9,7 @@
 ***
 # What is InsightsHub.ai?
 
-InsightsHub.AI is a platform for restaurants to improve business performance through data driven decisions. It leverages business intelligence (BI) capability to generate deep insights on order data collected through point-of-sale terminals like ToastTab, Square, etc. We added customer sentiment analysis using AI Natural Language Processing (NLP) techniques and will continue to add others, e.g., sales forecasting considering local and macro-economic factors.
-
-InsightsHub.ai through its use of technology and leveraging cloud secure storage, automating the entire process of insight generation and making recommendations available at a fraction of cost.
+InsightsHub.AI is a platform for restaurants to improve business performance through data driven decisions. It leverages business intelligence (BI) capability to generate deep insights on order data collected through point-of-sale terminals like ToastTab, Square, etc. We added customer sentiment analysis using AI Natural Language Processing (NLP) techniques and will continue to add others, e.g., sales forecasting considering local and macro-economic factors. Through our use of technology and cloud secure storage, we automate the entire process of insight generation and making recommendations available at a fraction of the cost.
 
 ***
 # Testimonial from one of our clients
