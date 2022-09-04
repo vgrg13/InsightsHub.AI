@@ -1,5 +1,5 @@
 # Table of Contents
-1. [What is InsightsHub.AI?](#What-is-InsightsHub.AI?)
+1. [What is InsightsHub.ai?](#What-is-InsightsHub.ai?)
 2. [Testimonial from one of our clients](#Testimonial-from-one-of-our-clients)
 3. [How does the product work?](#How-does-the-product-work?) 
 4. [What Insights are provided by our platform?](#What-Insights-are-provided-by-our-platform?)
@@ -7,11 +7,11 @@
 6. [Our Future Roadmap](#Our-Future-Roadmap)
 
 ***
-# What is InsightsHub.AI?
+# What is InsightsHub.ai?
 
-InsightsHub.AI is a platform for restaurants to improve business performance through data driven decisions. It leverages business intelligence (BI) capability to generate deep insights on order data collected through point-of-sale terminals like ToastTab, Square, etc. We added customer sentiment analyzer using AI Natural Language (NLP) techniques and continue to add others, e.g., sales forecasting considering local and macro-economic factors.
+InsightsHub.AI is a platform for restaurants to improve business performance through data driven decisions. It leverages business intelligence (BI) capability to generate deep insights on order data collected through point-of-sale terminals like ToastTab, Square, etc. We added customer sentiment analysis using AI Natural Language Processing (NLP) techniques and will continue to add others, e.g., sales forecasting considering local and macro-economic factors.
 
-InsightsHub.AI through its use of technology and leveraging cloud secure storage, automating the entire process of insight generation and making recommendations available at a fraction of cost.
+InsightsHub.ai through its use of technology and leveraging cloud secure storage, automating the entire process of insight generation and making recommendations available at a fraction of cost.
 
 ***
 # Testimonial from one of our clients
