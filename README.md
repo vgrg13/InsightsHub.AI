@@ -96,7 +96,7 @@ Online resource examples:
 
 **Tableau Dashboards supporting above use cases**
 
-8 distinct dashboards are built with 30+ different charts followed by Executive Summary Dashboard. Details below
+8 distinct dashboards are built with 40+ different charts followed by Executive Summary Dashboard. Details below
 * **1) Sales Trends**: Monthly/Seasonal sales trends, sales distribution by order channel, meal type and other dimensions
 * **2) Year-over-year Sales Trends**: Performance compared to last year across months and seasons
 * **3) Order Source Trends**: Dine in vs. delivery vs. take out comparison and trends by order channel (DoorDash, Grubhub, etc.)
