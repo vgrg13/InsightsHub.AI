@@ -22,11 +22,11 @@ InsightsHub.AI is a platform for restaurants to improve business performance thr
 
 >2. Files stored in a database, provided as a service from go-daddy
 
->3. Files are concatenated in Microsoft Excel (just stacking each monthly file - separately for order level (#1) and order item level (#2) files)
+>3. Files are concatenated (separately for order level (File #1) and order item level (File #2) files)
 
 >4. Google reviews are sourced through an online bot (https://botster.io/bots/google-maps-reviews-scraper)
 
->5. Developed machine learnings (ML) codes provide reasons of negative and positive sentiments (#3)
+>5. Developed machine learnings (ML) codes provide reasons of negative and positive sentiments (File #3)
 
 >6. 3 files are input to a pre-built Tableau with over 30 preconfigured views and provide instant insights (links below)
 
